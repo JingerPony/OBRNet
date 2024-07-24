@@ -1,5 +1,5 @@
 # OBRNet
-Cornell grasping dataset with mask annotations and grasp video can be found here.
+Cornell grasping dataset with mask annotations and grasp videos can be found here.
 1. Cornell grasping dataset with mask annotations:
    [Dataset link](https://drive.google.com/file/d/1kJNRJ1mvdMJG1O4kn63hdGL-9vri_YAr/view?usp=drive_link)
 2. Grasp video for single object:
